@@ -42,6 +42,6 @@ I'm also studying Flutter because I'm interested in cross-platform. 😀
 
 ---
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=maugou&show_icons=true&theme=gruvbox)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=maugou&show_icons=true&theme=gruvbox&count_private=true)
 
 
