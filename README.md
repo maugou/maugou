@@ -15,9 +15,6 @@ Here are some ideas to get you started:
 
 ### Hi there 👋
 
-**I'm a mobile app developer using react-native.**<br />
-I'm also studying Flutter because I'm interested in cross-platform. 😀 
-
 ---
 
 ### SKILLS 💻
