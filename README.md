@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 [![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)](https://github.com/maugou)
 [![DART](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)](https://github.com/maugou)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maugou&layout=compact)](https://github.com/maugou)
+[![Top Langs](https://github-readme-stats-oj9jzukyv-jo-jaehoons-projects.vercel.app/api/top-langs/?username=maugou&layout=compact&theme=gruvbox&count_private=true&include_all_commits=true)](https://github.com/maugou)
 
 #### Frameworks and Libraries
 [![REACT-NATIVE](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)](https://github.com/maugou)
@@ -39,6 +39,6 @@ Here are some ideas to get you started:
 
 ---
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=maugou&show_icons=true&theme=gruvbox&count_private=true)](https://github.com/maugou)
+[![GitHub stats](https://github-readme-stats-oj9jzukyv-jo-jaehoons-projects.vercel.app/api?username=maugou&show_icons=true&theme=gruvbox&count_private=true)](https://github.com/maugou)
 
 
